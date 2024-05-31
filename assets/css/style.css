@@ -4,12 +4,14 @@
     margin: 0;
 }
 
+/* Moved common font-family and font-size values to body selector */
 body {
     background-color: #d9dcd6;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
 }
 
+/* Replaced .header class to target `header` semantic element */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -26,6 +28,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Replaced all `.header div` to target `header nav` semantic element */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -66,12 +69,18 @@ a {
     margin-left: 25px;
 }
 
+/* Updated .content class to target `main` semantic element */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* 
+ Removed all redundant classes and 
+ moved styling over to target the child
+ elements of `main`
+ */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -89,6 +98,10 @@ main h2 {
     font-size: 36px;
 }
 
+/* 
+Removed all benefit classes, and moved the styling
+over to the `aside` elements and their child elements.
+*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -115,6 +128,7 @@ aside img {
     max-width: 150px;
 }
 
+/* Replaced .footer class to target `footer` semantic element */
 footer {
     padding: 30px;
     clear: both;
