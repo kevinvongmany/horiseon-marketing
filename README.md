@@ -2,7 +2,7 @@
 This repository contains refactored source code for Week 1's challenge bootcamp.
 
 ## Deploy
-The final webpage for this can be accessed here: https//kevinvongmany.github.io/horiseon-marketing/
+The final webpage for this can be accessed here: https://kevinvongmany.github.io/horiseon-marketing/
 
 ## HTML CSS Git Challenge: Code Refactor
 
