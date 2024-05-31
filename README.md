@@ -9,10 +9,13 @@ The refactoring of this source code includes:
 - In-file comments detailing the changes to the refactored code.
 
 ## Deploy
-The final webpage for this can be accessed here: https://kevinvongmany.github.io/horiseon-marketing/
+
+The final webpage for this can be accessed here: https://kevinvongmany.github.io/horiseon-marketing/.
+
 Users can access the HTML source code through the repo or within a Chromium/Firefox browser by pressing `F12`, `CTRL+SHIFT+I` (Windows) or `CMD+SHIFT+I` (MacOS). 
 
-## Samples
+## Sample
+
 Samples of final webpage can be found here:
 ![A sample screenshot of the refactored webpage](docs/sample-screenshot.png)
 ![Another sample screenshot of the refactored webpage](docs/sample-screenshot-2.png)
