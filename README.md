@@ -1,5 +1,5 @@
 # Webpage Accessibility Challenge
-This repository contains refactored source code for Week 1's challenge bootcamp.
+This repository contains refactored source code for Week 1's bootcamp challenge.
 
 ## Deploy
 The final webpage for this can be accessed here: https://kevinvongmany.github.io/horiseon-marketing/
